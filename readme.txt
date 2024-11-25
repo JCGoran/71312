@@ -36,3 +36,4 @@ should be directed to xsli2@yahoo.com
 Updates
 
 20240226 Use noiseFromRandom123 for result identity between 8.2 and 9.0
+2024-11: Updated hoc files to use Random123
